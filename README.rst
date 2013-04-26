@@ -19,7 +19,7 @@ Requirements
 ------------
 
 1. Python 3
-2. libcapn library - http://libcapn.org/
+2. capn library - http://libcapn.org/
 
 
 

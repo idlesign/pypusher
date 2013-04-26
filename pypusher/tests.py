@@ -19,7 +19,7 @@ except ImportError:
 DEV_CERT = '/home/idle/dev/pypusher/pypusher/apns-dev-cert.pem'
 DEV_KEY = '/home/idle/dev/pypusher/pypusher/apns-dev-key.pem'
 DEV_TOKENS = [
-    '04C11AF19F8535381BC30D1F875EF9A0C626466932571C2AA2296B8C562D397C'
+    '04C11AF19F8535381BC30D1F875EF9A0C626466932571C2AA2296B8C562D398C'
 ]
 
 
