@@ -50,8 +50,7 @@ copyright = '2013, Igor \'idle sign\' Starikov'
 #
 # The short X.Y version.
 
-from pypusher import VERSION
-version = '.'.join(map(str, VERSION))
+version = '0.1.0'
 # The full version, including alpha/beta/rc tags.
 release = version
 
