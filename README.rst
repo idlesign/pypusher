@@ -2,7 +2,8 @@ pypusher
 ========
 http://github.com/idlesign/pypusher
 
-
+.. image:: https://pypip.in/d/pypusher/badge.png
+        :target: https://crate.io/packages/pypusher
 
 What's that
 -----------
